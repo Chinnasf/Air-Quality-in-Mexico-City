@@ -2,11 +2,9 @@
 This repository contains some tools to analyze the air quality of Mexico City using Python. 
 My main objective is to keep uploading more complex analysis on this topic, as I keep learning on data analysis and machine learning. 
 
-1. [General Description](https://github.com/Chinnasf/Air-Quality-in-Mexico-City#General-Description)
-
-2. [Codes Description](https://github.com/Chinnasf/Air-Quality-in-Mexico-City#Codes-Description)
-
-3. [Contributing](https://github.com/Chinnasf/Air-Quality-in-Mexico-City#Contributing)
+1. General Description
+2. Codes Description
+3. Contributing
 
 ---
 
@@ -71,7 +69,7 @@ Also, to understand the registered values for ultraviolet rays's intensity, I co
 
 ### 2. Codes Description
 
-`visual_analysis.py` contains the procedure of obtaining two visuals of the selected pollutants in the location 
+`visual_analysis.ipynb` contains the procedure of obtaining two visuals of the selected pollutants in the location 
 of _Tlanepantla, Mexico City_. The python libraries `pandas`,`matplotlib`, `numpy`, `seaborn`, and `warnings` are used. No data preprocessing is done 
 and it is assumed that all registered data is of equal importance for the analysis. 
 
