@@ -70,7 +70,15 @@ Also, to understand the registered values for ultraviolet rays's intensity, I co
 ### 2. Codes Description
 
 `visual_analysis.ipynb` contains the procedure of obtaining two visuals of the selected pollutants in the location 
-of _Tlanepantla, Mexico City_. The python libraries `pandas`,`matplotlib`, `numpy`, `seaborn`, and `warnings` are used. No data preprocessing is done 
+of _Tlanepantla, Mexico City_. The python libraries
+
+- `pandas`
+- `matplotlib`
+- `numpy`
+- `seaborn`
+- `warnings` 
+
+are used. No data preprocessing is done 
 and it is assumed that all registered data is of equal importance for the analysis. 
 
 ---
